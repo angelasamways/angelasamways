@@ -2,7 +2,7 @@
 
 #### Desenvolvedora Web Full Stack
 
-Me chamo Angela, sou graduada em Design Gráfico, estou terminando o curso de Desenvolvimento Web Full Stack na Trybe e sou também empresária. Tenho uma escola de natação infantil, porém sou apaixonada por tecnologia, o que me motivou a fazer uma transição de carreira. Tenho uma filha, 5 gatos e 2 cachorros. Meus hobbies são viajar, fazer Crossfit e jogar online.
+Me chamo Angela, sou graduada em Design Gráfico, estou terminando o curso de Desenvolvimento Web Full Stack na Trybe e sou também empresária. Tenho uma escola de natação infantil, porém sou apaixonada por tecnologia, o que me motivou a fazer uma transição de carreira. Tenho uma filha, 5 gatos e 2 cachorros. Meus hobbies são viajar, fazer Crossfit e jogar PS4.
 
 Durante o curso da Trybe, aprendi as seguintes tecnologias e ferramentas:
   
@@ -31,7 +31,7 @@ Aproveite o momento e conecte comigo lá no LinkedIn https://www.linkedin.com/in
 
 Além do português, minha língua nativa, tenho conhecimento em inglês nível intermediário e espanhol nível iniciante.
 
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=angelasamways&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=angelasamways)](https://github.com/anuraghazra/github-readme-stats)
 ![Angela Samways Status](https://github-readme-stats.vercel.app/api?username=angelasamways&show_icons=true)
 
 ![](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
