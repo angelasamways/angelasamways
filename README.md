@@ -22,6 +22,7 @@ Durante o curso da Trybe, aprendi as seguintes tecnologias e ferramentas:
 	•	MVC
 	•	SOLID
 	•	TDD
+ 	•	Python
 
 No decorrer do curso da Trybe, pude participar de inúmeros projetos, como forma de solidificar meu conhecimento, bem como concretizá-lo em forma de código. Pude também participar de projetos em grupo, atuando com diversas formas de desenvolvimento colaborativo (incluindo pair programming). Aqui no meu repositório pessoal você encontrará os principais projetos que participei, com seus respectivos códigos.
 
