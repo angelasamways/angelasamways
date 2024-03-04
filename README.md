@@ -2,7 +2,7 @@
 
 #### Desenvolvedora Web Full Stack
 
-Me chamo Angela, sou graduada em Design Gráfico, estou terminando o curso de Desenvolvimento Web Full Stack na Trybe e sou também empresária. Tenho uma escola de natação infantil, porém sou apaixonada por tecnologia, o que me motivou a fazer uma transição de carreira. Tenho uma filha, 5 gatos e 2 cachorros. Meus hobbies são viajar, fazer Crossfit e jogar PS4.
+Me chamo Angela, sou graduada em Design Gráfico, terminei o curso de Desenvolvimento Web Full Stack na Trybe, estou estudando Sistemas para Internet na Estácio e sou também empresária. Tenho uma escola de natação infantil, porém sou apaixonada por tecnologia, o que me motivou a fazer uma transição de carreira. Tenho uma filha, 5 gatos e 2 cachorros. Meus hobbies são viajar, fazer Crossfit e jogar PS4.
 
 Durante o curso da Trybe, aprendi as seguintes tecnologias e ferramentas:
   
